@@ -104,8 +104,8 @@ h6 {
 .header {
     display: table;
     position: relative;
-    background-image: url(/img/header-bg.jpg);
-    background-size: cover;
+    background-image: url(../img/header-bg.jpg);
+    background-size:cover;
     padding: 100px 0;
     color: #fff;
     width: 100%;
